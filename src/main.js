@@ -1,4 +1,5 @@
 import Phaser from 'phaser';
+import './styles/main.css';
 import { gameConfig } from './game/config.js';
 
 // Note: we deliberately do NOT hook window 'blur'/'focus' to manually sleep/wake
