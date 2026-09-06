@@ -1,0 +1,17 @@
+{
+  "name": "the-lost-memories-of-maveli",
+  "version": "1.0.0",
+  "description": "A short Onam-inspired browser adventure through Malabar, Kochi and Travancore, recovering the lost memories of King Maveli.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
